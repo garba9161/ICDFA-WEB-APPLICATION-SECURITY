@@ -102,7 +102,7 @@ Enterprise incident response, regulatory compliance frameworks, and post-breach 
 ### Course 8: Stage 1 Capstone Project (`BVWS108`)
 Synthesizing offensive testing, defensive engineering, and compliance reporting into an end-to-end audit.
 
-* 📄 **Capstone Final Report:** [View Report](./Course-08-Capstone-Project/assignments/Course8_Capstone.pdf)
+* 📄 **Capstone Final Report:** [View Report](./Course-08-Capstone-Project/assignments/Garba_Capstone_Project.docx)
   * *Overview:* Comprehensive security audit combining black-box vulnerability discovery, manual exploitation, code refactoring, and enterprise compliance reporting.
 
 ---
